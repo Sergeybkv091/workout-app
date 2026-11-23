@@ -2,7 +2,7 @@
   "name": "Тренировки Татьяны",
   "short_name": "Тренировки",
   "description": "Приложение для тренировок на 8 недель",
-  "start_url": "/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#166b63",
